@@ -27,8 +27,7 @@
                 &kp LEFT_SHIFT &none &kp LEFT_CONTROL &kp LEFT_GUI &kp LEFT_ALT &none &kp LEFT_CONTROL &kp KP_N0 &kp KP_N1 &kp KP_N2 &kp KP_N3 &kp &kp KP_DOT
             >;
         };
-
-        bt_layer {
+        bluetooth_layer {
             bindings = <
                 &none &none &none &none &none &none &none &none &none &none &none &none &none
                 &none &none &none &none &none &none &none &none &none &none &none &none &none
